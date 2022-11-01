@@ -1,3 +1,3 @@
-<h1> KM-Gowdru.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1> KM-Gowdru.com</h1>
+<h2> Welcome to my Youtube channel, please subscribe for more updates</h2>
+<h2> Like, comment and share the videos.Thankyou</h2>
